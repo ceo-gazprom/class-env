@@ -1,0 +1,21 @@
+{
+  "name": "ts-env",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Verification, sanitization, and type coercion for environment variables in Node.js",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "author": {
+    "name": "Wacker",
+    "email": "wackeryi@gmail.com"
+  },
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuwacker/ts-env.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yuwacker/ts-env/issues"
+  },
+  "tags": []
+}
